@@ -15,7 +15,7 @@
 <div>
   <br>
 
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
+## _[Railway: How to deploy](https://github.com/souravkl11/raganork-md/wikiDeploying-with-Railway)_
 
 ## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
 
